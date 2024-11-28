@@ -133,6 +133,48 @@ paligemma-vlm/
 └── inference.sh         # Shell script for inference
 ```
 
+## Literature for Better Understanding
+
+Below are some key resources and papers to deepen your understanding of the concepts and technologies used in this project:
+
+### Vision Transformers (ViT)
+- **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**  
+  _A foundational paper introducing Vision Transformers (ViT) for computer vision tasks._
+  [Link to Paper](https://arxiv.org/abs/2010.11929)
+
+### SigLIP
+- **"Learning Transferable Visual Models From Natural Language Supervision" (CLIP)**  
+  _This paper by OpenAI introduces CLIP, which serves as the foundation for SigLIP's contrastive learning approach._
+  [Link to Paper](https://arxiv.org/abs/2303.15343)
+
+### Gemma
+- **"Gemma: A Modular and Scalable Approach to Multimodal Learning"**  
+  _Gemma is a modular approach enabling efficient multimodal learning._  
+  [Link to Paper](https://arxiv.org/abs/2403.08295)
+
+### Pali-3 and PaliGemma
+- **"Pali-3: Scaling Multimodal Models for Enhanced Vision-Language Understanding"**  
+  _Pali-3 provides the foundational architecture expanded upon in PaliGemma._  
+  [Link to Paper](https://arxiv.org/abs/2310.09199)  
+  [PaliGemma Github](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md)
+
+### Related Foundational Papers
+- **"Attention Is All You Need"**  
+  _This paper introduces the Transformer architecture, the backbone of modern deep learning models like ViT._  
+  [Link to Paper](ttps://arxiv.org/abs/1706.03762)
+
+- **"Rotary Position Embedding"**  
+  _Introduces rotary positional embeddings (RoPE), an efficient method to encode sequence information in Transformers._  
+  [Link to Paper](https://arxiv.org/abs/2104.09864v5)
+
+- **"Root Mean Square Layer Normalization"**  
+  _A variant of normalization techniques providing stable training and improved performance._  
+  [Link to Paper](https://arxiv.org/abs/1910.07467)
+
+- **"Gaussian Error Linear Units" (GELU)**  
+  _A popular activation function commonly used in modern deep learning architectures._  
+  [Link to Paper](https://arxiv.org/abs/1606.08415v5)
+
 ### Contributions
 
 Contributions are welcome! Feel free to fork this repository, create issues, or submit pull requests to enhance this project.
