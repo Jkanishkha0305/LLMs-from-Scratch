@@ -12,7 +12,6 @@ Explore some of the most impactful Transformer models, categorized by their type
 | **Stable Diffusion** | Diffusion Model | Generates detailed images from text prompts using diffusion techniques. | [View Code](#)  
 | **LLaMA-1 23M param** | Text Generation Model | A cutting-edge LLM optimized for instruction-following tasks. | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/LLaMA-1-2.3M) |
 | **GPT** | Text Generation Model | State-of-the-art language model for versatile text-based tasks. | [View Code](#) |
-
 | **BERT** | Text Understanding Model | Pretrained on masked language tasks, excels in NLP understanding tasks. | [View Code](#) |
 | **Vision Transformer ViT** | Vision and Text-Image Model | Processes image data using transformer architecture for computer vision. | [View Code](#) |
 | **RoBERTa** | Text Understanding Model | An optimized version of BERT for better pretraining efficiency. | [View Code](#) |
