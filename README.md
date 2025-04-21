@@ -31,15 +31,14 @@ This repository documents the journey of building powerful Transformer based mod
 
 | **Model Name** | **Type** | **Description** | **Code Repository** |
 |--------|----------|------------------|----------------------|
-| **PaliGemma** | Vision-Language Model | Multimodal AI combining image and text understanding. | [🔗 View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/PaliGemma) |
-| **LLaMA-1 (2.3M)** | Text Generation | Lightweight LLM optimized for instruction-following. | [🔗 View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/LLaMA-1-2.3M) |
-| **GPT (29M)** | Text Generation | Pretrained GPT-style transformer from scratch. | [🔗 View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/GPT-29M) |
-| **LLaMA-1 (Alt Impl)** | Text Generation | Variation with performance tweaks and memory optimization. | [🔗 View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/LLaMA-3) |
-| **Stable Diffusion** | Diffusion Model | Text-to-image generation via latent diffusion. | 🚧 Coming Soon |
-| **BERT** | Text Understanding | Context-aware encoding using masked language modeling. | 🚧 Coming Soon |
-| **ViT** | Vision Model | Transformer-based image classification model. | 🚧 Coming Soon |
-| **RoBERTa** | Text Understanding | Robust pretraining for language representations. | 🚧 Coming Soon |
-
+| **PaliGemma**      | Vision-Language Model | Vision-language model enabling joint image and text reasoning.  | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/PaliGemma) |
+| **LLaMA-1 (2.3M)** | Text Generation       | Tiny LLaMA-style decoder optimized for efficient text generation. | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/LLaMA-1-2.3M) |
+| **GPT (29M)**      | Text Generation       | GPT-style transformer trained for next-token prediction.        | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/GPT-29M) |
+| **LLaMA-3**        | Text Generation       | Enhanced LLaMA architecture with memory and performance tweaks. | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/LLaMA-3) |
+| **Stable Diffusion** | Diffusion Model     | Latent diffusion model for high-quality image synthesis.        | 🚧 Coming Soon |
+| **BERT**           | Text Understanding    | Bidirectional encoder for masked language modeling tasks.       | 🚧 Coming Soon |
+| **ViT**            | Vision Model          | Transformer architecture for image classification from patches. | 🚧 Coming Soon |
+| **RoBERTa**        | Text Understanding    | Improved BERT variant trained with dynamic masking and large corpora. | 🚧 Coming Soon |
 ---
 
 ## 📚 Techniques & Concepts Covered
