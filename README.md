@@ -32,9 +32,8 @@ This repository documents the journey of building powerful Transformer based mod
 | **GPT (29M)**      | Text Generation       | GPT-style transformer trained for next-token prediction.        | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/GPT-29M) |
 | **LLaMA-3**        | Text Generation       | Enhanced LLaMA architecture with memory and performance tweaks. | [View Code](https://github.com/Jkanishkha0305/LLMs-from-Scratch/tree/main/LLaMA-3) |
 | **Stable Diffusion** | Diffusion Model     | Latent diffusion model for high-quality image synthesis.        | 🚧 Coming Soon |
-| **BERT**           | Text Understanding    | Bidirectional encoder for masked language modeling tasks.       | 🚧 Coming Soon |
 | **ViT**            | Vision Model          | Transformer architecture for image classification from patches. | 🚧 Coming Soon |
-| **RoBERTa**        | Text Understanding    | Improved BERT variant trained with dynamic masking and large corpora. | 🚧 Coming Soon |
+
 ---
 
 ## 📚 Techniques & Concepts Covered
