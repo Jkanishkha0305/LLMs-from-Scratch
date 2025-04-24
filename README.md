@@ -8,8 +8,7 @@ A curated collection of Large Language Models(LLMs), Small Language Models(SLM),
 ![Lightning AI](https://img.shields.io/badge/Lightning%20AI-For%20GPU%20Resources-pink)
 [![Weights & Biases](https://img.shields.io/badge/W%26B-Experiment%20Tracking-fcc42d?logo=wandb&logoColor=000)](https://wandb.ai/)
 [![Gradio](https://img.shields.io/badge/Gradio-Demo%20UI-FF4B4B?logo=gradio)](https://gradio.app/)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-red) 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)![Contributions](https://img.shields.io/badge/Contributions-Welcome-red) 
 
 ---
 
